@@ -58,13 +58,5 @@ npm start
 Weather App is live and ready for you to explore! Visit [WeatherApp](https://weather-application00.netlify.app/)
 
 
-## Author
-
-[Subramanya K S](https://github.com/deepakg2607)
-
-<!--Licence-->
-## LICENSE
-
-This project is distributed under MIT License read `LICENSE` file for more details .
 
 
