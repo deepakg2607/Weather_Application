@@ -1,4 +1,4 @@
-# ⛈ Weather App
+Weather App
 
 
 A simple weather app built with React.js and utilizes the OpenWeatherMap API to fetch and display weather information for a given location.
@@ -20,28 +20,9 @@ The Application Programming Interface is a set of rules and regulations and stan
 ## Technology Used
 
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 * OpenWeathermap API
 * ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-## API Details
-
-the details used from the `openweathermap API` is follows:
-
-1. `id` City ID.
-2. `name` City name.
-3. `sys.country` Country code (GB, JP etc.)
-4. `main.temp` Temperature. Unit Default: Kelvin, Metric: Celsius, Imperial: Fahrenheit.
-5. `main.feels_like` Temperature. This temperature parameter accounts for the human perception of weather. Unit Default: Kelvin, Metric: Celsius, Imperial: Fahrenheit.
-6. `main.pressure` Atmospheric pressure (on the sea level, if there is no sea_level or grnd_level data), hPa
-7. `main.humidity` Humidity, %
-8. `main.temp_min` Minimum temperature at the moment. This is minimal currently observed temperature (within large megalopolises and urban areas). Unit Default: Kelvin, Metric: Celsius, Imperial: Fahrenheit.
-9. `main.temp_max` Maximum temperature at the moment. This is maximal currently observed temperature (within large megalopolises and urban areas). Unit Default: Kelvin, Metric: Celsius, Imperial: Fahrenheit.
-10. `coord.lon` City geo location, longitude.
-11. `coord.lat` City geo location, latitude.
-12. `weather.description` Weather condition within the group. You can get the output in your language.
-13. `weather.icon` Weather icon id
 
 
 ## Pre Requisite
@@ -92,12 +73,12 @@ We welcome contributions! If you'd like to contribute to Weather-app, please fol
 
 ## Deploy
 
-Weather App is live and ready for you to explore! Visit [WeatherApp](https://subramanyaks.github.io/Weather-app/)
+Weather App is live and ready for you to explore! Visit [WeatherApp](https://weather-application00.netlify.app/)
 
 
 ## Author
 
-[Subramanya K S](https://subramanyaks.github.io/)
+[Subramanya K S](https://github.com/deepakg2607)
 
 <!--Licence-->
 ## LICENSE
@@ -105,12 +86,3 @@ Weather App is live and ready for you to explore! Visit [WeatherApp](https://sub
 This project is distributed under MIT License read `LICENSE` file for more details .
 
 
-## Credits
-
-[Openweathermap API](https://openweathermap.org/api)
-[Fontawesome Icons](https://fontawesome.com/v6/icons)
-
-
-If you like the project 🌟 the repository.
-
-Thank you with ❤ Subramanya KS
