@@ -36,7 +36,7 @@ The Application Programming Interface is a set of rules and regulations and stan
 1. Fork the Project and clone Repository using git clone
 
 ```
-git clone https://github.com/SubramanyaKS/Weather-app.git
+git clone https://github.com/deepakg2607/Weather_Application.git
 ```
 2. Navigate to the project directory:
 
@@ -52,23 +52,14 @@ npm install
 
       Visit the OpenWeatherMap website and sign up for an account.After signing in, go to your account dashboard and generate an API key.
 
-5.  Create a .env file in the root directory of the project and add your API key:
 
-```
-REACT_APP_API_KEY=<Your openwearhermap API Key>
-```
-
-6.  Start the development server using command:
+5.  Start the development server using command:
 
 ```
 npm start
 ```
 
 7. Open your browser and navigate to `http://localhost:3000` to see the app running.
-
-## Contribution
-
-We welcome contributions! If you'd like to contribute to Weather-app, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/Weather-app/blob/main/CONTRIBUTING.md).
 
 
 ## Deploy
