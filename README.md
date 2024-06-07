@@ -32,7 +32,7 @@ git clone https://github.com/deepakg2607/Weather_Application.git
 2. Navigate to the project directory:
 
 ```
-cd Weather_application
+cd Weather_Application
 ```
 3.  Install all dependency in package.json
 
